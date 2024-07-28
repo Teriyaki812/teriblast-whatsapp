@@ -24,7 +24,7 @@ You can change any of the main accent colors here by replacing the corresponding
 ```
 Note that editing or even adding new hex values is also possible
 
-Additionally, you can also change the background picture by replacing the following imgur link with your desired picture link
+To change the background image you can replace the following imgur link with your desired picture link. Will default to accent color if link is invalid
 
 ```css
 background: url(https://i.imgur.com/12ThblS.png) !important;
