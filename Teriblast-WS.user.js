@@ -243,4 +243,4 @@ function replaceContent(className, newContent) {
 
 /* You can add more classes here */
 replaceContent('h1._al_e', 'Teriblast for Whatsapp Web');
-replaceContent('div.xqui205', 'Made by Teriyaki');// ==UserScript==
+replaceContent('div.xqui205', 'Made by Teriyaki');
