@@ -33,6 +33,8 @@ GM_addStyle ( `
     #main, .x1l1ennw, .x1qyhdoi, ._ahyp, .xdiz9cm, .xcbkimw, ._alhs, .xvue9z, ._ak82, .x67bb7w, .xwvwv9b, .x1v8jjaa, .x1l7klhg, .x1qjc9v5, div.x1c4vz4f:nth-child(5) { background-color: var(--blast-background) !important; }
 
     .statusList > div:nth-child(1) > span:nth-child(1) > div:nth-child(1), div.x1qughib:nth-child(1), div.xajqne3:nth-child(2) { background-color: var(--blast-background); }
+	
+	.x78zum5.x8hhl5t.x13a6bvl.x13crsa5.x1mpkggp.x18d9i69.x1t2a60a.xp4054r.xuxw1ft { background-color: var(--blast-background) !important; }
 
     .x1n2onr6.xhtitgo.x9f619.x78zum5.x6s0dn4.xl56j7k.x5sx7kw.xexx8yu.xc73u3c.x10b6aqq.x5ib6vp.x1m8r95a { background-color: var(--blast-background) !important; }
 
