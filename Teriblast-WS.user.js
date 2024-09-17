@@ -47,7 +47,7 @@ GM_addStyle ( `
 
     ._ak4w { background-color: #6d0666 !important; }
 
-    ._ahyg, .x86nts4, ._aju5 { background-color: var(--blast-accent) !important; }
+    ._ahyg, .x86nts4, ._aju5, .x13crsa5, .x1ba4aug { background-color: var(--blast-accent) !important; }
 
     /* Button elements */
     .x1gfkgh9 { background-color: #b454ad !important; }
@@ -112,7 +112,7 @@ GM_addStyle ( `
         border-color: var(--blast-border);
     }
 
-    ._amm8 {
+    ._amm8, ._ak1i {
         border-right: 2px inset;
         border-bottom: 2px inset;
         border-color: var(--blast-border);
