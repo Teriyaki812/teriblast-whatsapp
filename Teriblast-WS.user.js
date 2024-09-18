@@ -118,6 +118,7 @@ GM_addStyle ( `
     }
 
     ._amm8, .xuk3077 {
+		border-top: 2px inset;
         border-right: 2px inset;
         border-bottom: 2px inset;
         border-color: var(--blast-border);
