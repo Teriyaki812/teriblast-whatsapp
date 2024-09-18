@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Teriblast for Whatsapp Web
-// @version     1.0.1
+// @version     1.2
 // @description Customizable theme for Whatsapp Web.
 // @author      Teriyaki
 // @icon        https://i.imgur.com/14f9VD4.png
@@ -100,7 +100,9 @@ GM_addStyle ( `
     }
 
     ._amid._aqbz {
-        border: 2px inset var(--blast-border);
+		border-top: 2px inset;
+		border-right: 2px inset;
+        border-color: var(--blast-border);
     }
 
     ._ak1k {
