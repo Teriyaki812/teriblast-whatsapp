@@ -26,7 +26,7 @@ This is a rather simple but easy to understand plugin that will shine some light
 
 **IMPORTANT: Chromium-based browsers only support images/gifs from tenor.com and giphy.com due to CORS policy.**
 
-- <ins>Hide contact list</ins>: Ever wanted to avoid people from snopping your contacts? Now you can do so with this fancy new button!
+- <ins>Hide contact list</ins>: Ever wanted to avoid people from snooping your contacts? Now you can do so with this fancy new button!
 <img src="https://github.com/user-attachments/assets/ab35faf1-4a46-42ac-ad53-ac16e88faa53" width = 400>
 
 ## Additional Notes
