@@ -16,7 +16,7 @@ The intented way to use this theme is via an extension manager. You can follow t
 
 
 
-### Features
+## Features
 This is a rather simple but easy to understand plugin that will shine some light into your Whatsapp client
 
 - <ins>Background image</ins>: Gives more personality to the environment compared to the default doodles (yikes)
