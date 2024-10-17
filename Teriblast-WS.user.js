@@ -375,12 +375,12 @@ GM_addStyle ( `
         animation: zoomIn 0.3s ease forwards;
     }
 
-    ._aigv:nth-child(4) {
+    ._aigw:nth-child(4) {
     transition: transform 0.3s ease, opacity 0.3s ease;
     opacity: 1; /* Fully visible */
     }
 
-    ._aigv:nth-child(4).hidden {
+    ._aigw:nth-child(4).hidden {
         transform: translateX(-100%); /* Move out of view to the left */
         opacity: 0; /* Fade out */
     }
