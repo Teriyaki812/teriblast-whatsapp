@@ -98,7 +98,7 @@ function getBackgroundURL() {
 // Function to hide friend list
 function hideFriends() {
       const chatList = document.querySelector('div._aigw:nth-child(4)');
-	  hideBtnPos = document.querySelector('div#main._ajx_ > header._amid > div._ami8 > div._ajv2._ajv1');
+      hideBtnPos = document.querySelector('div#main._ajx_ > header._amid > div._ami8 > div._ajv2._ajv1');
       // Check if hideBtnPos exists
       if (hideBtnPos) {
           // Check if the button has already been created
