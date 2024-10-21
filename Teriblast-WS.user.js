@@ -443,6 +443,11 @@ GM_addStyle ( `
         border: 2px inset var(--blast-border);
     }
 
+    div#main._ajx_ > footer._ak1i {
+        background-color: var(--blast-background);
+        border: 2px inset var(--blast-border);
+    }
+
     ._aka5 {
         background-color: var(--blast-background) !important;
         border: 2px inset var(--blast-border);
@@ -459,7 +464,7 @@ GM_addStyle ( `
         border-color: var(--blast-border);
     }
 
-    ._ai03._ai01._akmh, ._al_c, div#main._ajx_ > footer._ak1i {
+    ._ai03._ai01._akmh, ._al_c {
         border-top: 2px inset;
         border-right: 2px inset;
         border-bottom: 2px inset;
