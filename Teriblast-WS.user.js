@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Teriblast for Whatsapp Web
-// @version     2.4.3
+// @version     2.4.5
 // @description Customizable theme for Whatsapp Web.
 // @author      Teriyaki
 // @icon        https://i.imgur.com/n9WkFwh.gif
@@ -572,6 +572,8 @@ GM_addStyle ( `
     .x9f619.x78zum5.x1c4vz4f.x2lah0s.xdl72j9.xdt5ytf.xvue9z.x1xy6bms.xxbr6pl.xx6bls6.xbbxn1n.x1v8jjaa.xkwfhqy.x17e6fzg.x15dh256.x1t7u3xy.x1shw4ur.x6ikm8r.x10wlt62.modal-zoom-in,
     .x9f619.x78zum5.x1c4vz4f.x2lah0s.xdl72j9.xdt5ytf.x1v8jjaa.xkwfhqy.x17e6fzg.x15dh256.x1t7u3xy.x1shw4ur.x6ikm8r.x10wlt62.xr6pica.x1p5oq8j.xljvro7.x84yb8i.x1xfsgkm
     { border: 2px inset var(--blast-border); }
+
+    .x10l6tqk.x13vifvy.x17qophe.xyw6214.x9f619.x78zum5.xdt5ytf.xh8yej3.x5yr21d.x6ikm8r.x1rife3k.xjbqb8w.x1ewm37j { background-color: transparent !important; }
 
     /* You may tweak this for a less opaque bg picture but it'll mess the opacity of other elements */
     /* div.x13vifvy:nth-child(1) { */
